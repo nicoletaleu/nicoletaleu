@@ -11,8 +11,8 @@ SQL (MySQL), GitHub Actions, Jira
 
 | Repo | What it is |
 |---|---|
-| [robot-framework-learning](https://github.com/nicoletalucia/robot-framework-learning) | 30 days of Robot Framework: 189 tests, a stub server and a local site, so none of it touches the network |
-| [qa-portfolio](https://github.com/nicoletalucia/qa-portfolio) | Everything after Robot: AI as a QA tool, Postman, and the plan for Playwright and Cypress |
+| [robot-framework-learning](https://github.com/nicoletaleu/robot-framework-learning) | 30 days of Robot Framework: 189 tests, a stub server and a local site, so none of it touches the network |
+| [qa-portfolio](https://github.com/nicoletaleu/qa-portfolio) | Everything after Robot: AI as a QA tool, Postman, and the plan for Playwright and Cypress |
 
 ## Contact
 
