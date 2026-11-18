@@ -27,4 +27,7 @@ Python, SQL (MySQL), GitHub Actions, Jira
   <a href="https://calendly.com/nicoleta-toma15/30min">
     <img src="https://img.shields.io/badge/Calendly-%23006BFF.svg?style=for-the-badge&logo=Calendly&logoColor=white" alt="Calendly" />
   </a>
+  <a href="https://github.com/nicoletaleu/nicoletaleu/blob/main/Nicoleta_Leu_CV_AQA.pdf">
+    <img src="https://img.shields.io/badge/_RESUME_-CV1?style=for-the-badge&color=silver" alt="Resume" />
+  </a>
 </p>
