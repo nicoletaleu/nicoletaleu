@@ -17,7 +17,7 @@ jobs:
       - uses: ryo-ma/github-profile-trophy@43736b50a82fca73c8df1c81abb40aa03519975c
         with:
           username: nicoletaleu
-          output_path: trophies.svg
+          output_path: ./trophies.svg
           token: ${{ secrets.METRICS_TOKEN }}
           theme: tokyonight
 
