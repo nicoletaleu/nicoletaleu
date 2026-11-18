@@ -17,4 +17,14 @@ Python, SQL (MySQL), GitHub Actions, Jira
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/nicoleta-leu)
+<p align="left">
+  <a href="https://www.linkedin.com/in/nicoleta-leu">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nicoleta.toma15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://calendly.com/nicoleta-toma15/30min">
+    <img src="https://img.shields.io/badge/Calendly-%23006BFF.svg?style=for-the-badge&logo=Calendly&logoColor=white" alt="Calendly" />
+  </a>
+</p>
