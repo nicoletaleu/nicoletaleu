@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: ryo-ma/github-profile-trophy@43736b5
+      - uses: ryo-ma/github-profile-trophy@43736b50a82fca73c8df1c81abb40aa03519975c
         with:
           username: nicoletaleu
           output_path: trophies.svg
