@@ -2,6 +2,9 @@
   <a href="https://www.linkedin.com/in/nicoleta-leu">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://nicoleta-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%23C2410C.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:nicoleta.toma15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
