@@ -12,7 +12,7 @@ jobs:
   trophies:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - uses: ryo-ma/github-profile-trophy@43736b50a82fca73c8df1c81abb40aa03519975c
         with:
