@@ -39,6 +39,18 @@ QA Automation Engineer in Suceava, Romania. I test API, web and mobile
 products end to end, and I build the tooling around the tests: CI pipelines,
 reporting, test data.
 
+<p>
+  <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=flat-square&logo=robotframework&logoColor=white" alt="Robot Framework" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Appium-662CB7?style=flat-square&logo=appium&logoColor=white" alt="Appium" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+</p>
+
 **Tools I work with:** Robot Framework, Playwright, TypeScript, Appium, Postman,
 Python, SQL (MySQL), GitHub Actions, Jira
 
